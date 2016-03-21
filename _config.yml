@@ -2,6 +2,7 @@ name: thedesigner
 favicon: null
 layout_spectrum: 0.5234562852419913
 typography_spectrum: 0.9110140651464462
+title: The Designer
 cta:
   domain: null
   bucket: null
